@@ -1,6 +1,5 @@
- {
-   "aluno" :[
-  {
+[
+   {
       "nome":"Ana",
       "ano_nascimento":1984,
       "notas":{
@@ -46,4 +45,3 @@
       }
    }
 ]
-}
